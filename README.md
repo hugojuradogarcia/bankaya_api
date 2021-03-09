@@ -24,5 +24,15 @@ $ mvn update
 $ mvn clean install 
 ```
 
+## Run the application
+```
+$ mvn spring-boot:run
+```
+
+## WSDL
+```
+http://localhost:8080/ws/pokemon.wsdl
+```
+
 ## Authors
 * **Hugo Jurado García** - *Repository* - [Pokedex](https://github.com/hugojuradogarcia/bankaya_api/commits/dev)

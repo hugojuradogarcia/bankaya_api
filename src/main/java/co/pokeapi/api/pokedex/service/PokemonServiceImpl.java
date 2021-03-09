@@ -1,6 +1,6 @@
 package co.pokeapi.api.pokedex.service;
 
-import co.pokeapi.api.pokedex.dao.RequestRepository;
+import co.pokeapi.api.pokedex.dao.repository.RequestRepository;
 import co.pokeapi.api.pokedex.dao.client.PokemonClient;
 import co.pokeapi.api.pokedex.model.commons.WebUtils;
 import co.pokeapi.api.pokedex.model.entity.Request;
